@@ -1,0 +1,18 @@
+/* CSS rules for elements to apply external CSS */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.external h2 {
+  color: rgb(30, 170, 30);
+  font-size: 30px;
+}
+
+.border2 {
+  border-top: 2px solid lightgreen;
+}
+
+.external p {
+  text-align: justify;
+}
